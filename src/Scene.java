@@ -9,10 +9,13 @@
  */
 public class Scene {
     
+    
+    //constructor 
     public Scene(){
         
     }
     
+    //
     public void Direction(){
         
     }
